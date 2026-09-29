@@ -1,0 +1,21 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+
+# 旧版备份文件（内容已由 Git 历史保留）
+old-index.html
+
+# 依赖与构建产物（如后续引入）
+node_modules/
+dist/
